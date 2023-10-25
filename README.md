@@ -24,8 +24,6 @@ I'm currently focused on improving my skills in cloud providers (focused in AWS)
 - I'm currently working on EPAM Systems as a Full Backend Developer creating scalable solutions applying best practices to the projects, ensurance quality and good working.
 - I have experience in other kind of jobs such as Frontend Developer with Angular and ReactJS. I consider myself as a Backend Developer but I have a global knowledge and experience working in web and mobile world.
 
-Feel free to explore more of my work on my [GitHub profile](https://github.com/YourGitHubUsername).
-
 ## 📖 My Personal Site
 
 I maintain a personal site with a brief resume of my projects. You can check it out [here](https://ivanfernandez2646.github.io/portfolio-ivan/).
