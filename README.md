@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Iván 👋</h1>
 
 <p align="center">
-  <a href="[Your LinkedIn Profile]"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50"></a>
+  <a href="https://www.linkedin.com/in/iv%C3%A1n-fern%C3%A1ndez-campos-b461a3183"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50"></a>
   <a href="mailto:ivanfernandez422000@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="50"></a>
 </p>
 
