@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a Backend Developer with a passion for all kind of technologies. I love to investigate and create clean code applying software design patterns and good techniques.
+I'm a Senior Backend Developer with a passion for all kind of technologies. I love to investigate and create clean code applying software design patterns and good techniques.
 
 ## 🔧 Technologies & Tools
 
@@ -21,7 +21,7 @@ I'm currently focused on improving my skills in cloud providers (focused in AWS)
 
 ## 💼 Work
 
-- I'm currently working on EPAM Systems as a Full Backend Developer creating scalable solutions applying best practices to the projects, ensurance quality and good working.
+- I'm currently working on TIFIN as a Senior Backend Developer creating scalable solutions applying best practices to the projects, ensurance quality and good working.
 - I have experience in other kind of jobs such as Frontend Developer with Angular and ReactJS. I consider myself as a Backend Developer but I have a global knowledge and experience working in web and mobile world.
 
 ## 📖 My Personal Site
