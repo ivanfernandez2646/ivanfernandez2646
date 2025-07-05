@@ -13,7 +13,7 @@ I'm a Senior Backend Developer with a passion for all kind of technologies. I lo
 
 - **Languages**: [Javascript, Typescript (Node.js)]
 - **Frameworks**: [Nest.js, Express, Hexagonal Architecture from the scratch]
-- **Tools**: [VSCode, Microsoft Teams, Slack, Jira]
+- **Tools**: [Cursor, VSCode, Microsoft Teams, Slack, Jira]
 
 ## 🌱 I’m currently learning
 
