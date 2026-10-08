@@ -18,9 +18,9 @@ Senior Backend Engineer with six years of Node.js and TypeScript, focused on arc
 - **Quality**: Jest, unit, E2E and infrastructure testing
 - **AI workflow**: Claude Code, Cursor, MCP, Spec Driven Development (RPI)
 
-## 🌱 What I'm working on
+## 🧭 How I work
 
-Building MCP servers in TypeScript with the same architecture I use at work, and refining my AI assisted workflow: spec first, tests first, small steps.
+Spec first, tests first, small steps. I use Claude Code and Cursor daily with Spec Driven Development (RPI), and I care more about what the user gets than about the framework.
 
 ## 💼 Work
 
