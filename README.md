@@ -7,26 +7,28 @@
 
 ## About Me
 
-I'm a Senior Backend Developer with a passion for all kind of technologies. I love to investigate and create clean code applying software design patterns and good techniques.
+Senior Backend Engineer with six years of Node.js and TypeScript, focused on architecture: DDD, hexagonal, CQRS and event-driven systems. T-shaped: deep on backend, but close to the business. Based in Spain (CET).
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: [Javascript, Typescript (Node.js)]
-- **Frameworks**: [Nest.js, Express, Hexagonal Architecture from the scratch]
-- **Tools**: [Cursor, VSCode, Microsoft Teams, Slack, Jira]
+- **Languages**: TypeScript, JavaScript (Node.js), Go (working knowledge)
+- **Frameworks**: NestJS, Express
+- **Architecture**: DDD, Hexagonal, CQRS, Event-driven, Modular Monolith
+- **Data & Cloud**: PostgreSQL, DynamoDB, AWS (Lambda, S3), GCP
+- **Quality**: Jest, unit, E2E and infrastructure testing
+- **AI workflow**: Claude Code, Cursor, MCP, Spec Driven Development (RPI)
 
-## 🌱 I’m currently learning
+## 🌱 What I'm working on
 
-I'm currently focused on improving my skills in cloud providers (focused in AWS). At the same time, I'm boosting my performance with Node.js (DDD, Hexagonal Architecture, TDD).
+Building MCP servers in TypeScript with the same architecture I use at work, and refining my AI assisted workflow: spec first, tests first, small steps.
 
 ## 💼 Work
 
-- I'm currently working on TIFIN as a Senior Backend Developer creating scalable solutions applying best practices to the projects, ensurance quality and good working.
-- I have experience in other kind of jobs such as Frontend Developer with Angular and ReactJS. I consider myself as a Backend Developer but I have a global knowledge and experience working in web and mobile world.
-
-## 📖 My Personal Site
-
-I maintain a personal site with a brief resume of my projects. You can check it out [here](https://ivanfernandez2646.github.io/portfolio-ivan/).
+- **Service Club**: one of 3 senior backend engineers on the core vertical. NestJS modular monolith running 4 verticals, and Excel operations turned into product flows (bulk enrollment, online payments, automatic trainer assignment).
+- **Facephi**: KYC API taken from 0 to 85% test coverage, with DDD introduced into an existing NestJS codebase.
+- **TIFIN**: client MVPs for a US wealth advisory company shipped in two or three months.
+- **Optiva Media**: Vodafone payment gateway for in app purchases, in production with paying users.
+- Earlier roles as full stack developer with Angular and React, so I'm comfortable working across the stack.
 
 <p align="center">
   ❤️ Thanks for visiting my profile! ❤️
